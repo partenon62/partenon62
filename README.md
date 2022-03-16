@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @partenon62
+- 👋 Hi, I’m Reza.
 - 👀 I’m interested in Blockchain and Solidity.
 - 🌱 I’m currently learning React.js, ...
 - 💞️ I’m looking to collaborate on Blockchain projects.
